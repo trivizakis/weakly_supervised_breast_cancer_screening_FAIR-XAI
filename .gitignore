@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Model Checkpoints & Weights
+*.pth
+*.pt
+*.tar
+*.bin
+*.h5
+*.ckpt
+checkpoints/
+
+# Data & Cache Files
+*.npy
+*.npz
+*.dcm
+*.dicom
+*.csv
+augmented_cache/
+preprocessed_cache/
+cache/
+data/
+
+# Run directories & Output Images & Artifacts
+run_*/
+rsna_xai_outputs/
+results/
+PPed/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.geojson
+*.dicom.rt
+
+# Environment & IDE
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+*.swp
+*.tmp*
+.DS_Store
