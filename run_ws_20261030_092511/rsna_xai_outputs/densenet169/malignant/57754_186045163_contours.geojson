@@ -1,0 +1,1738 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "coordinate_system": "pixel_space",
+    "generator": "ViTXAIEnsembler"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_0",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 30.0,
+        "is_core": true,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              264.0,
+              447.0
+            ],
+            [
+              265.0,
+              453.0
+            ],
+            [
+              270.0,
+              453.0
+            ],
+            [
+              270.0,
+              448.0
+            ],
+            [
+              264.0,
+              447.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_1",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 768.5,
+        "is_core": true,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              150.0,
+              378.0
+            ],
+            [
+              148.0,
+              385.0
+            ],
+            [
+              134.0,
+              387.0
+            ],
+            [
+              134.0,
+              389.0
+            ],
+            [
+              129.0,
+              394.0
+            ],
+            [
+              129.0,
+              398.0
+            ],
+            [
+              131.0,
+              400.0
+            ],
+            [
+              131.0,
+              408.0
+            ],
+            [
+              133.0,
+              410.0
+            ],
+            [
+              139.0,
+              410.0
+            ],
+            [
+              140.0,
+              406.0
+            ],
+            [
+              149.0,
+              408.0
+            ],
+            [
+              151.0,
+              417.0
+            ],
+            [
+              156.0,
+              417.0
+            ],
+            [
+              159.0,
+              415.0
+            ],
+            [
+              159.0,
+              409.0
+            ],
+            [
+              157.0,
+              406.0
+            ],
+            [
+              159.0,
+              404.0
+            ],
+            [
+              165.0,
+              404.0
+            ],
+            [
+              165.0,
+              398.0
+            ],
+            [
+              159.0,
+              397.0
+            ],
+            [
+              159.0,
+              389.0
+            ],
+            [
+              153.0,
+              386.0
+            ],
+            [
+              155.0,
+              383.0
+            ],
+            [
+              155.0,
+              378.0
+            ],
+            [
+              150.0,
+              378.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_2",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 220.0,
+        "is_core": true,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              185.0,
+              304.0
+            ],
+            [
+              185.0,
+              308.0
+            ],
+            [
+              182.0,
+              311.0
+            ],
+            [
+              182.0,
+              319.0
+            ],
+            [
+              184.0,
+              323.0
+            ],
+            [
+              191.0,
+              323.0
+            ],
+            [
+              198.0,
+              313.0
+            ],
+            [
+              198.0,
+              309.0
+            ],
+            [
+              192.0,
+              307.0
+            ],
+            [
+              189.0,
+              304.0
+            ],
+            [
+              185.0,
+              304.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_3",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 41.0,
+        "is_core": true,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              180.0,
+              288.0
+            ],
+            [
+              181.0,
+              296.0
+            ],
+            [
+              186.0,
+              296.0
+            ],
+            [
+              186.0,
+              289.0
+            ],
+            [
+              180.0,
+              288.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_4",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 807.5,
+        "is_core": true,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              203.0,
+              73.0
+            ],
+            [
+              201.0,
+              75.0
+            ],
+            [
+              181.0,
+              77.0
+            ],
+            [
+              182.0,
+              83.0
+            ],
+            [
+              189.0,
+              83.0
+            ],
+            [
+              199.0,
+              89.0
+            ],
+            [
+              195.0,
+              92.0
+            ],
+            [
+              193.0,
+              92.0
+            ],
+            [
+              192.0,
+              90.0
+            ],
+            [
+              186.0,
+              90.0
+            ],
+            [
+              186.0,
+              94.0
+            ],
+            [
+              192.0,
+              94.0
+            ],
+            [
+              194.0,
+              97.0
+            ],
+            [
+              200.0,
+              97.0
+            ],
+            [
+              201.0,
+              90.0
+            ],
+            [
+              206.0,
+              93.0
+            ],
+            [
+              213.0,
+              94.0
+            ],
+            [
+              218.0,
+              99.0
+            ],
+            [
+              220.0,
+              104.0
+            ],
+            [
+              224.0,
+              104.0
+            ],
+            [
+              224.0,
+              99.0
+            ],
+            [
+              222.0,
+              95.0
+            ],
+            [
+              225.0,
+              92.0
+            ],
+            [
+              236.0,
+              91.0
+            ],
+            [
+              236.0,
+              86.0
+            ],
+            [
+              230.0,
+              85.0
+            ],
+            [
+              227.0,
+              82.0
+            ],
+            [
+              215.0,
+              76.0
+            ],
+            [
+              203.0,
+              73.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_0",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 86.0,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              270.0,
+              441.0
+            ],
+            [
+              263.0,
+              447.0
+            ],
+            [
+              263.0,
+              451.0
+            ],
+            [
+              267.0,
+              456.0
+            ],
+            [
+              270.0,
+              455.0
+            ],
+            [
+              273.0,
+              450.0
+            ],
+            [
+              270.0,
+              446.0
+            ],
+            [
+              270.0,
+              441.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_1",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 59.0,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.0,
+              406.0
+            ],
+            [
+              182.0,
+              415.0
+            ],
+            [
+              185.0,
+              416.0
+            ],
+            [
+              189.0,
+              412.0
+            ],
+            [
+              189.0,
+              409.0
+            ],
+            [
+              179.0,
+              406.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_2",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 33.5,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98.0,
+              391.0
+            ],
+            [
+              97.0,
+              397.0
+            ],
+            [
+              104.0,
+              398.0
+            ],
+            [
+              104.0,
+              394.0
+            ],
+            [
+              98.0,
+              391.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_3",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 1742.5,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.0,
+              368.0
+            ],
+            [
+              142.0,
+              377.0
+            ],
+            [
+              136.0,
+              380.0
+            ],
+            [
+              129.0,
+              380.0
+            ],
+            [
+              127.0,
+              382.0
+            ],
+            [
+              119.0,
+              381.0
+            ],
+            [
+              115.0,
+              382.0
+            ],
+            [
+              116.0,
+              384.0
+            ],
+            [
+              119.0,
+              384.0
+            ],
+            [
+              121.0,
+              382.0
+            ],
+            [
+              127.0,
+              382.0
+            ],
+            [
+              129.0,
+              385.0
+            ],
+            [
+              128.0,
+              393.0
+            ],
+            [
+              118.0,
+              402.0
+            ],
+            [
+              118.0,
+              404.0
+            ],
+            [
+              120.0,
+              409.0
+            ],
+            [
+              129.0,
+              408.0
+            ],
+            [
+              135.0,
+              413.0
+            ],
+            [
+              136.0,
+              416.0
+            ],
+            [
+              145.0,
+              418.0
+            ],
+            [
+              148.0,
+              421.0
+            ],
+            [
+              148.0,
+              423.0
+            ],
+            [
+              156.0,
+              424.0
+            ],
+            [
+              159.0,
+              418.0
+            ],
+            [
+              167.0,
+              418.0
+            ],
+            [
+              169.0,
+              416.0
+            ],
+            [
+              167.0,
+              413.0
+            ],
+            [
+              167.0,
+              400.0
+            ],
+            [
+              170.0,
+              397.0
+            ],
+            [
+              170.0,
+              394.0
+            ],
+            [
+              167.0,
+              392.0
+            ],
+            [
+              168.0,
+              385.0
+            ],
+            [
+              167.0,
+              383.0
+            ],
+            [
+              160.0,
+              381.0
+            ],
+            [
+              158.0,
+              379.0
+            ],
+            [
+              158.0,
+              375.0
+            ],
+            [
+              154.0,
+              375.0
+            ],
+            [
+              153.0,
+              371.0
+            ],
+            [
+              146.0,
+              371.0
+            ],
+            [
+              145.0,
+              368.0
+            ],
+            [
+              143.0,
+              368.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_4",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 75.0,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              120.0,
+              336.0
+            ],
+            [
+              119.0,
+              339.0
+            ],
+            [
+              125.0,
+              344.0
+            ],
+            [
+              125.0,
+              348.0
+            ],
+            [
+              129.0,
+              348.0
+            ],
+            [
+              129.0,
+              339.0
+            ],
+            [
+              126.0,
+              336.0
+            ],
+            [
+              120.0,
+              336.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_5",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 64.5,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              145.0,
+              300.0
+            ],
+            [
+              143.0,
+              303.0
+            ],
+            [
+              146.0,
+              305.0
+            ],
+            [
+              147.0,
+              308.0
+            ],
+            [
+              156.0,
+              306.0
+            ],
+            [
+              155.0,
+              302.0
+            ],
+            [
+              145.0,
+              300.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_6",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 962.5,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              170.0,
+              285.0
+            ],
+            [
+              170.0,
+              295.0
+            ],
+            [
+              180.0,
+              296.0
+            ],
+            [
+              180.0,
+              302.0
+            ],
+            [
+              176.0,
+              303.0
+            ],
+            [
+              171.0,
+              310.0
+            ],
+            [
+              175.0,
+              312.0
+            ],
+            [
+              175.0,
+              319.0
+            ],
+            [
+              172.0,
+              322.0
+            ],
+            [
+              173.0,
+              326.0
+            ],
+            [
+              183.0,
+              325.0
+            ],
+            [
+              184.0,
+              328.0
+            ],
+            [
+              187.0,
+              328.0
+            ],
+            [
+              189.0,
+              325.0
+            ],
+            [
+              193.0,
+              324.0
+            ],
+            [
+              193.0,
+              321.0
+            ],
+            [
+              196.0,
+              318.0
+            ],
+            [
+              202.0,
+              317.0
+            ],
+            [
+              208.0,
+              317.0
+            ],
+            [
+              209.0,
+              323.0
+            ],
+            [
+              211.0,
+              322.0
+            ],
+            [
+              211.0,
+              317.0
+            ],
+            [
+              215.0,
+              315.0
+            ],
+            [
+              212.0,
+              313.0
+            ],
+            [
+              213.0,
+              305.0
+            ],
+            [
+              208.0,
+              305.0
+            ],
+            [
+              205.0,
+              303.0
+            ],
+            [
+              190.0,
+              303.0
+            ],
+            [
+              188.0,
+              301.0
+            ],
+            [
+              188.0,
+              293.0
+            ],
+            [
+              196.0,
+              291.0
+            ],
+            [
+              189.0,
+              291.0
+            ],
+            [
+              186.0,
+              287.0
+            ],
+            [
+              182.0,
+              286.0
+            ],
+            [
+              173.0,
+              287.0
+            ],
+            [
+              172.0,
+              285.0
+            ],
+            [
+              170.0,
+              285.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_7",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 32.5,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0,
+              256.0
+            ],
+            [
+              83.0,
+              258.0
+            ],
+            [
+              89.0,
+              262.0
+            ],
+            [
+              92.0,
+              261.0
+            ],
+            [
+              91.0,
+              257.0
+            ],
+            [
+              85.0,
+              256.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_8",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 111.5,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              435.0,
+              244.0
+            ],
+            [
+              434.0,
+              253.0
+            ],
+            [
+              429.0,
+              256.0
+            ],
+            [
+              429.0,
+              260.0
+            ],
+            [
+              437.0,
+              263.0
+            ],
+            [
+              440.0,
+              258.0
+            ],
+            [
+              440.0,
+              254.0
+            ],
+            [
+              438.0,
+              252.0
+            ],
+            [
+              438.0,
+              246.0
+            ],
+            [
+              435.0,
+              244.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_9",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 40.5,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              321.0,
+              151.0
+            ],
+            [
+              319.0,
+              156.0
+            ],
+            [
+              326.0,
+              158.0
+            ],
+            [
+              327.0,
+              151.0
+            ],
+            [
+              321.0,
+              151.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_10",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 278.0,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.0,
+              97.0
+            ],
+            [
+              87.0,
+              105.0
+            ],
+            [
+              87.0,
+              110.0
+            ],
+            [
+              79.0,
+              114.0
+            ],
+            [
+              76.0,
+              114.0
+            ],
+            [
+              75.0,
+              115.0
+            ],
+            [
+              77.0,
+              117.0
+            ],
+            [
+              79.0,
+              117.0
+            ],
+            [
+              82.0,
+              114.0
+            ],
+            [
+              89.0,
+              114.0
+            ],
+            [
+              92.0,
+              118.0
+            ],
+            [
+              98.0,
+              116.0
+            ],
+            [
+              99.0,
+              110.0
+            ],
+            [
+              104.0,
+              110.0
+            ],
+            [
+              106.0,
+              106.0
+            ],
+            [
+              103.0,
+              104.0
+            ],
+            [
+              103.0,
+              99.0
+            ],
+            [
+              95.0,
+              99.0
+            ],
+            [
+              93.0,
+              97.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_11",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 35.5,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              251.0,
+              93.0
+            ],
+            [
+              251.0,
+              100.0
+            ],
+            [
+              256.0,
+              101.0
+            ],
+            [
+              256.0,
+              97.0
+            ],
+            [
+              259.0,
+              95.0
+            ],
+            [
+              254.0,
+              95.0
+            ],
+            [
+              253.0,
+              93.0
+            ],
+            [
+              251.0,
+              93.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_12",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 1743.0,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              209.0,
+              62.0
+            ],
+            [
+              209.0,
+              72.0
+            ],
+            [
+              196.0,
+              71.0
+            ],
+            [
+              192.0,
+              75.0
+            ],
+            [
+              175.0,
+              75.0
+            ],
+            [
+              173.0,
+              72.0
+            ],
+            [
+              169.0,
+              75.0
+            ],
+            [
+              164.0,
+              76.0
+            ],
+            [
+              161.0,
+              81.0
+            ],
+            [
+              149.0,
+              79.0
+            ],
+            [
+              147.0,
+              72.0
+            ],
+            [
+              144.0,
+              75.0
+            ],
+            [
+              137.0,
+              75.0
+            ],
+            [
+              144.0,
+              75.0
+            ],
+            [
+              150.0,
+              83.0
+            ],
+            [
+              150.0,
+              89.0
+            ],
+            [
+              157.0,
+              92.0
+            ],
+            [
+              162.0,
+              89.0
+            ],
+            [
+              168.0,
+              89.0
+            ],
+            [
+              170.0,
+              82.0
+            ],
+            [
+              179.0,
+              82.0
+            ],
+            [
+              183.0,
+              86.0
+            ],
+            [
+              184.0,
+              97.0
+            ],
+            [
+              192.0,
+              97.0
+            ],
+            [
+              194.0,
+              99.0
+            ],
+            [
+              195.0,
+              104.0
+            ],
+            [
+              198.0,
+              103.0
+            ],
+            [
+              203.0,
+              94.0
+            ],
+            [
+              210.0,
+              94.0
+            ],
+            [
+              213.0,
+              97.0
+            ],
+            [
+              213.0,
+              103.0
+            ],
+            [
+              208.0,
+              105.0
+            ],
+            [
+              208.0,
+              110.0
+            ],
+            [
+              213.0,
+              110.0
+            ],
+            [
+              216.0,
+              106.0
+            ],
+            [
+              223.0,
+              106.0
+            ],
+            [
+              229.0,
+              102.0
+            ],
+            [
+              227.0,
+              100.0
+            ],
+            [
+              228.0,
+              93.0
+            ],
+            [
+              235.0,
+              93.0
+            ],
+            [
+              243.0,
+              90.0
+            ],
+            [
+              240.0,
+              90.0
+            ],
+            [
+              239.0,
+              86.0
+            ],
+            [
+              235.0,
+              84.0
+            ],
+            [
+              235.0,
+              78.0
+            ],
+            [
+              232.0,
+              77.0
+            ],
+            [
+              231.0,
+              80.0
+            ],
+            [
+              224.0,
+              80.0
+            ],
+            [
+              223.0,
+              76.0
+            ],
+            [
+              219.0,
+              74.0
+            ],
+            [
+              217.0,
+              68.0
+            ],
+            [
+              212.0,
+              68.0
+            ],
+            [
+              209.0,
+              62.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_13",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 113.0,
+        "is_core": false,
+        "patient_id": "57754",
+        "image_id": "186045163",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9731,
+        "pred_decision": "MALIGNANT",
+        "age": 46.0,
+        "age_group": "40-50",
+        "site_id": 1,
+        "density": "C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              197.0,
+              44.0
+            ],
+            [
+              195.0,
+              47.0
+            ],
+            [
+              181.0,
+              47.0
+            ],
+            [
+              183.0,
+              50.0
+            ],
+            [
+              196.0,
+              50.0
+            ],
+            [
+              196.0,
+              56.0
+            ],
+            [
+              193.0,
+              59.0
+            ],
+            [
+              189.0,
+              59.0
+            ],
+            [
+              189.0,
+              61.0
+            ],
+            [
+              192.0,
+              64.0
+            ],
+            [
+              196.0,
+              63.0
+            ],
+            [
+              196.0,
+              58.0
+            ],
+            [
+              199.0,
+              56.0
+            ],
+            [
+              199.0,
+              45.0
+            ],
+            [
+              197.0,
+              44.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,6495 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "coordinate_system": "pixel_space",
+    "generator": "ViTXAIEnsembler"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_0",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 5501.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.0,
+              437.0
+            ],
+            [
+              38.0,
+              445.0
+            ],
+            [
+              24.0,
+              444.0
+            ],
+            [
+              24.0,
+              448.0
+            ],
+            [
+              20.0,
+              452.0
+            ],
+            [
+              3.0,
+              452.0
+            ],
+            [
+              2.0,
+              446.0
+            ],
+            [
+              0.0,
+              446.0
+            ],
+            [
+              0.0,
+              466.0
+            ],
+            [
+              10.0,
+              461.0
+            ],
+            [
+              12.0,
+              463.0
+            ],
+            [
+              10.0,
+              468.0
+            ],
+            [
+              0.0,
+              468.0
+            ],
+            [
+              0.0,
+              484.0
+            ],
+            [
+              7.0,
+              481.0
+            ],
+            [
+              11.0,
+              482.0
+            ],
+            [
+              11.0,
+              484.0
+            ],
+            [
+              6.0,
+              488.0
+            ],
+            [
+              1.0,
+              489.0
+            ],
+            [
+              1.0,
+              493.0
+            ],
+            [
+              3.0,
+              496.0
+            ],
+            [
+              0.0,
+              499.0
+            ],
+            [
+              0.0,
+              511.0
+            ],
+            [
+              37.0,
+              511.0
+            ],
+            [
+              38.0,
+              502.0
+            ],
+            [
+              41.0,
+              504.0
+            ],
+            [
+              39.0,
+              506.0
+            ],
+            [
+              39.0,
+              510.0
+            ],
+            [
+              44.0,
+              510.0
+            ],
+            [
+              47.0,
+              508.0
+            ],
+            [
+              49.0,
+              511.0
+            ],
+            [
+              57.0,
+              511.0
+            ],
+            [
+              69.0,
+              507.0
+            ],
+            [
+              83.0,
+              508.0
+            ],
+            [
+              86.0,
+              505.0
+            ],
+            [
+              88.0,
+              506.0
+            ],
+            [
+              88.0,
+              508.0
+            ],
+            [
+              95.0,
+              508.0
+            ],
+            [
+              108.0,
+              501.0
+            ],
+            [
+              108.0,
+              496.0
+            ],
+            [
+              104.0,
+              496.0
+            ],
+            [
+              92.0,
+              504.0
+            ],
+            [
+              88.0,
+              504.0
+            ],
+            [
+              87.0,
+              501.0
+            ],
+            [
+              78.0,
+              500.0
+            ],
+            [
+              76.0,
+              498.0
+            ],
+            [
+              72.0,
+              498.0
+            ],
+            [
+              68.0,
+              502.0
+            ],
+            [
+              62.0,
+              501.0
+            ],
+            [
+              65.0,
+              497.0
+            ],
+            [
+              74.0,
+              496.0
+            ],
+            [
+              77.0,
+              492.0
+            ],
+            [
+              79.0,
+              492.0
+            ],
+            [
+              81.0,
+              495.0
+            ],
+            [
+              85.0,
+              495.0
+            ],
+            [
+              87.0,
+              493.0
+            ],
+            [
+              86.0,
+              488.0
+            ],
+            [
+              89.0,
+              485.0
+            ],
+            [
+              99.0,
+              485.0
+            ],
+            [
+              99.0,
+              481.0
+            ],
+            [
+              102.0,
+              478.0
+            ],
+            [
+              106.0,
+              478.0
+            ],
+            [
+              108.0,
+              468.0
+            ],
+            [
+              104.0,
+              467.0
+            ],
+            [
+              102.0,
+              465.0
+            ],
+            [
+              102.0,
+              462.0
+            ],
+            [
+              98.0,
+              462.0
+            ],
+            [
+              93.0,
+              465.0
+            ],
+            [
+              88.0,
+              465.0
+            ],
+            [
+              86.0,
+              470.0
+            ],
+            [
+              86.0,
+              477.0
+            ],
+            [
+              83.0,
+              480.0
+            ],
+            [
+              79.0,
+              481.0
+            ],
+            [
+              76.0,
+              478.0
+            ],
+            [
+              78.0,
+              470.0
+            ],
+            [
+              70.0,
+              470.0
+            ],
+            [
+              68.0,
+              468.0
+            ],
+            [
+              63.0,
+              468.0
+            ],
+            [
+              62.0,
+              465.0
+            ],
+            [
+              73.0,
+              460.0
+            ],
+            [
+              73.0,
+              455.0
+            ],
+            [
+              70.0,
+              453.0
+            ],
+            [
+              70.0,
+              451.0
+            ],
+            [
+              76.0,
+              450.0
+            ],
+            [
+              76.0,
+              447.0
+            ],
+            [
+              81.0,
+              442.0
+            ],
+            [
+              81.0,
+              438.0
+            ],
+            [
+              48.0,
+              437.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_1",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 36.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              68.0,
+              428.0
+            ],
+            [
+              65.0,
+              430.0
+            ],
+            [
+              65.0,
+              434.0
+            ],
+            [
+              69.0,
+              434.0
+            ],
+            [
+              72.0,
+              432.0
+            ],
+            [
+              72.0,
+              428.0
+            ],
+            [
+              68.0,
+              428.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_2",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 96.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.0,
+              427.0
+            ],
+            [
+              33.0,
+              436.0
+            ],
+            [
+              42.0,
+              437.0
+            ],
+            [
+              44.0,
+              433.0
+            ],
+            [
+              44.0,
+              428.0
+            ],
+            [
+              33.0,
+              427.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_3",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 36.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              193.0,
+              426.0
+            ],
+            [
+              191.0,
+              428.0
+            ],
+            [
+              191.0,
+              433.0
+            ],
+            [
+              196.0,
+              433.0
+            ],
+            [
+              197.0,
+              426.0
+            ],
+            [
+              193.0,
+              426.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_4",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 1203.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.0,
+              426.0
+            ],
+            [
+              134.0,
+              433.0
+            ],
+            [
+              135.0,
+              439.0
+            ],
+            [
+              129.0,
+              443.0
+            ],
+            [
+              124.0,
+              451.0
+            ],
+            [
+              122.0,
+              445.0
+            ],
+            [
+              117.0,
+              446.0
+            ],
+            [
+              117.0,
+              451.0
+            ],
+            [
+              124.0,
+              452.0
+            ],
+            [
+              122.0,
+              455.0
+            ],
+            [
+              117.0,
+              456.0
+            ],
+            [
+              118.0,
+              465.0
+            ],
+            [
+              131.0,
+              464.0
+            ],
+            [
+              131.0,
+              455.0
+            ],
+            [
+              135.0,
+              451.0
+            ],
+            [
+              140.0,
+              440.0
+            ],
+            [
+              143.0,
+              442.0
+            ],
+            [
+              144.0,
+              450.0
+            ],
+            [
+              148.0,
+              452.0
+            ],
+            [
+              148.0,
+              455.0
+            ],
+            [
+              152.0,
+              455.0
+            ],
+            [
+              159.0,
+              451.0
+            ],
+            [
+              162.0,
+              451.0
+            ],
+            [
+              166.0,
+              444.0
+            ],
+            [
+              169.0,
+              442.0
+            ],
+            [
+              176.0,
+              444.0
+            ],
+            [
+              178.0,
+              447.0
+            ],
+            [
+              182.0,
+              447.0
+            ],
+            [
+              184.0,
+              445.0
+            ],
+            [
+              185.0,
+              435.0
+            ],
+            [
+              180.0,
+              434.0
+            ],
+            [
+              175.0,
+              429.0
+            ],
+            [
+              167.0,
+              431.0
+            ],
+            [
+              156.0,
+              426.0
+            ],
+            [
+              144.0,
+              426.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_5",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 226.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.0,
+              426.0
+            ],
+            [
+              112.0,
+              427.0
+            ],
+            [
+              101.0,
+              434.0
+            ],
+            [
+              97.0,
+              434.0
+            ],
+            [
+              97.0,
+              438.0
+            ],
+            [
+              107.0,
+              438.0
+            ],
+            [
+              114.0,
+              436.0
+            ],
+            [
+              120.0,
+              432.0
+            ],
+            [
+              122.0,
+              432.0
+            ],
+            [
+              125.0,
+              436.0
+            ],
+            [
+              129.0,
+              436.0
+            ],
+            [
+              128.0,
+              426.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_6",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 66.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.0,
+              425.0
+            ],
+            [
+              48.0,
+              435.0
+            ],
+            [
+              52.0,
+              435.0
+            ],
+            [
+              56.0,
+              430.0
+            ],
+            [
+              56.0,
+              426.0
+            ],
+            [
+              48.0,
+              425.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_7",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 191.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0,
+              425.0
+            ],
+            [
+              0.0,
+              435.0
+            ],
+            [
+              6.0,
+              435.0
+            ],
+            [
+              11.0,
+              446.0
+            ],
+            [
+              18.0,
+              445.0
+            ],
+            [
+              18.0,
+              440.0
+            ],
+            [
+              13.0,
+              439.0
+            ],
+            [
+              11.0,
+              436.0
+            ],
+            [
+              11.0,
+              434.0
+            ],
+            [
+              15.0,
+              431.0
+            ],
+            [
+              15.0,
+              427.0
+            ],
+            [
+              5.0,
+              427.0
+            ],
+            [
+              3.0,
+              425.0
+            ],
+            [
+              0.0,
+              425.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_8",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 70.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.0,
+              413.0
+            ],
+            [
+              81.0,
+              421.0
+            ],
+            [
+              88.0,
+              421.0
+            ],
+            [
+              90.0,
+              419.0
+            ],
+            [
+              90.0,
+              413.0
+            ],
+            [
+              81.0,
+              413.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_9",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 30.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              65.0,
+              411.0
+            ],
+            [
+              64.0,
+              417.0
+            ],
+            [
+              70.0,
+              417.0
+            ],
+            [
+              70.0,
+              412.0
+            ],
+            [
+              65.0,
+              411.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_10",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 120.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.0,
+              410.0
+            ],
+            [
+              106.0,
+              412.0
+            ],
+            [
+              104.0,
+              422.0
+            ],
+            [
+              110.0,
+              422.0
+            ],
+            [
+              112.0,
+              421.0
+            ],
+            [
+              113.0,
+              417.0
+            ],
+            [
+              119.0,
+              415.0
+            ],
+            [
+              118.0,
+              410.0
+            ],
+            [
+              109.0,
+              410.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_11",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 41.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0,
+              403.0
+            ],
+            [
+              0.0,
+              413.0
+            ],
+            [
+              3.0,
+              413.0
+            ],
+            [
+              5.0,
+              412.0
+            ],
+            [
+              5.0,
+              408.0
+            ],
+            [
+              4.0,
+              405.0
+            ],
+            [
+              0.0,
+              403.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_12",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 40.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.0,
+              401.0
+            ],
+            [
+              126.0,
+              403.0
+            ],
+            [
+              126.0,
+              407.0
+            ],
+            [
+              132.0,
+              408.0
+            ],
+            [
+              133.0,
+              401.0
+            ],
+            [
+              128.0,
+              401.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_13",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 29.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              191.0,
+              399.0
+            ],
+            [
+              191.0,
+              406.0
+            ],
+            [
+              195.0,
+              406.0
+            ],
+            [
+              196.0,
+              400.0
+            ],
+            [
+              191.0,
+              399.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_14",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 224.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0,
+              377.0
+            ],
+            [
+              0.0,
+              379.0
+            ],
+            [
+              0.0,
+              400.0
+            ],
+            [
+              5.0,
+              400.0
+            ],
+            [
+              7.0,
+              398.0
+            ],
+            [
+              8.0,
+              390.0
+            ],
+            [
+              10.0,
+              388.0
+            ],
+            [
+              20.0,
+              388.0
+            ],
+            [
+              20.0,
+              384.0
+            ],
+            [
+              8.0,
+              383.0
+            ],
+            [
+              6.0,
+              377.0
+            ],
+            [
+              2.0,
+              377.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_15",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 40.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.0,
+              374.0
+            ],
+            [
+              35.0,
+              378.0
+            ],
+            [
+              37.0,
+              379.0
+            ],
+            [
+              44.0,
+              378.0
+            ],
+            [
+              44.0,
+              374.0
+            ],
+            [
+              35.0,
+              374.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_16",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 41.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0,
+              374.0
+            ],
+            [
+              26.0,
+              376.0
+            ],
+            [
+              23.0,
+              376.0
+            ],
+            [
+              23.0,
+              380.0
+            ],
+            [
+              32.0,
+              379.0
+            ],
+            [
+              32.0,
+              374.0
+            ],
+            [
+              28.0,
+              374.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_17",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 31.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.0,
+              369.0
+            ],
+            [
+              138.0,
+              375.0
+            ],
+            [
+              142.0,
+              375.0
+            ],
+            [
+              144.0,
+              373.0
+            ],
+            [
+              144.0,
+              369.0
+            ],
+            [
+              139.0,
+              369.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_18",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 40.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              119.0,
+              349.0
+            ],
+            [
+              116.0,
+              352.0
+            ],
+            [
+              116.0,
+              356.0
+            ],
+            [
+              120.0,
+              356.0
+            ],
+            [
+              123.0,
+              353.0
+            ],
+            [
+              123.0,
+              349.0
+            ],
+            [
+              119.0,
+              349.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_19",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 27.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.0,
+              348.0
+            ],
+            [
+              144.0,
+              354.0
+            ],
+            [
+              149.0,
+              354.0
+            ],
+            [
+              149.0,
+              349.0
+            ],
+            [
+              144.0,
+              348.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_20",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 37.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              59.0,
+              337.0
+            ],
+            [
+              59.0,
+              342.0
+            ],
+            [
+              67.0,
+              342.0
+            ],
+            [
+              66.0,
+              337.0
+            ],
+            [
+              59.0,
+              337.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_21",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 3948.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0,
+              336.0
+            ],
+            [
+              73.0,
+              338.0
+            ],
+            [
+              73.0,
+              342.0
+            ],
+            [
+              75.0,
+              344.0
+            ],
+            [
+              74.0,
+              346.0
+            ],
+            [
+              72.0,
+              348.0
+            ],
+            [
+              66.0,
+              347.0
+            ],
+            [
+              63.0,
+              352.0
+            ],
+            [
+              48.0,
+              353.0
+            ],
+            [
+              44.0,
+              357.0
+            ],
+            [
+              36.0,
+              360.0
+            ],
+            [
+              32.0,
+              357.0
+            ],
+            [
+              24.0,
+              358.0
+            ],
+            [
+              25.0,
+              366.0
+            ],
+            [
+              31.0,
+              369.0
+            ],
+            [
+              35.0,
+              369.0
+            ],
+            [
+              39.0,
+              366.0
+            ],
+            [
+              49.0,
+              365.0
+            ],
+            [
+              56.0,
+              362.0
+            ],
+            [
+              58.0,
+              366.0
+            ],
+            [
+              56.0,
+              368.0
+            ],
+            [
+              52.0,
+              368.0
+            ],
+            [
+              52.0,
+              374.0
+            ],
+            [
+              61.0,
+              373.0
+            ],
+            [
+              63.0,
+              378.0
+            ],
+            [
+              61.0,
+              380.0
+            ],
+            [
+              56.0,
+              380.0
+            ],
+            [
+              53.0,
+              385.0
+            ],
+            [
+              50.0,
+              385.0
+            ],
+            [
+              50.0,
+              389.0
+            ],
+            [
+              52.0,
+              391.0
+            ],
+            [
+              50.0,
+              393.0
+            ],
+            [
+              44.0,
+              392.0
+            ],
+            [
+              45.0,
+              389.0
+            ],
+            [
+              48.0,
+              388.0
+            ],
+            [
+              48.0,
+              384.0
+            ],
+            [
+              42.0,
+              383.0
+            ],
+            [
+              38.0,
+              387.0
+            ],
+            [
+              38.0,
+              391.0
+            ],
+            [
+              41.0,
+              393.0
+            ],
+            [
+              41.0,
+              395.0
+            ],
+            [
+              38.0,
+              397.0
+            ],
+            [
+              30.0,
+              397.0
+            ],
+            [
+              24.0,
+              394.0
+            ],
+            [
+              18.0,
+              394.0
+            ],
+            [
+              19.0,
+              403.0
+            ],
+            [
+              42.0,
+              408.0
+            ],
+            [
+              39.0,
+              411.0
+            ],
+            [
+              16.0,
+              411.0
+            ],
+            [
+              16.0,
+              416.0
+            ],
+            [
+              21.0,
+              423.0
+            ],
+            [
+              27.0,
+              423.0
+            ],
+            [
+              31.0,
+              420.0
+            ],
+            [
+              41.0,
+              419.0
+            ],
+            [
+              44.0,
+              422.0
+            ],
+            [
+              50.0,
+              421.0
+            ],
+            [
+              50.0,
+              417.0
+            ],
+            [
+              47.0,
+              415.0
+            ],
+            [
+              49.0,
+              412.0
+            ],
+            [
+              49.0,
+              408.0
+            ],
+            [
+              47.0,
+              406.0
+            ],
+            [
+              50.0,
+              403.0
+            ],
+            [
+              54.0,
+              403.0
+            ],
+            [
+              58.0,
+              398.0
+            ],
+            [
+              71.0,
+              397.0
+            ],
+            [
+              74.0,
+              400.0
+            ],
+            [
+              74.0,
+              403.0
+            ],
+            [
+              78.0,
+              403.0
+            ],
+            [
+              80.0,
+              400.0
+            ],
+            [
+              87.0,
+              399.0
+            ],
+            [
+              94.0,
+              396.0
+            ],
+            [
+              95.0,
+              394.0
+            ],
+            [
+              105.0,
+              394.0
+            ],
+            [
+              111.0,
+              390.0
+            ],
+            [
+              117.0,
+              390.0
+            ],
+            [
+              120.0,
+              383.0
+            ],
+            [
+              122.0,
+              383.0
+            ],
+            [
+              125.0,
+              386.0
+            ],
+            [
+              133.0,
+              387.0
+            ],
+            [
+              134.0,
+              379.0
+            ],
+            [
+              128.0,
+              372.0
+            ],
+            [
+              122.0,
+              368.0
+            ],
+            [
+              101.0,
+              367.0
+            ],
+            [
+              99.0,
+              365.0
+            ],
+            [
+              98.0,
+              358.0
+            ],
+            [
+              100.0,
+              356.0
+            ],
+            [
+              102.0,
+              356.0
+            ],
+            [
+              105.0,
+              359.0
+            ],
+            [
+              109.0,
+              359.0
+            ],
+            [
+              109.0,
+              355.0
+            ],
+            [
+              107.0,
+              353.0
+            ],
+            [
+              103.0,
+              353.0
+            ],
+            [
+              100.0,
+              350.0
+            ],
+            [
+              95.0,
+              350.0
+            ],
+            [
+              91.0,
+              352.0
+            ],
+            [
+              91.0,
+              357.0
+            ],
+            [
+              93.0,
+              358.0
+            ],
+            [
+              93.0,
+              366.0
+            ],
+            [
+              80.0,
+              365.0
+            ],
+            [
+              78.0,
+              363.0
+            ],
+            [
+              85.0,
+              362.0
+            ],
+            [
+              85.0,
+              357.0
+            ],
+            [
+              79.0,
+              358.0
+            ],
+            [
+              75.0,
+              354.0
+            ],
+            [
+              75.0,
+              352.0
+            ],
+            [
+              81.0,
+              351.0
+            ],
+            [
+              85.0,
+              347.0
+            ],
+            [
+              87.0,
+              347.0
+            ],
+            [
+              87.0,
+              343.0
+            ],
+            [
+              85.0,
+              337.0
+            ],
+            [
+              76.0,
+              336.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_22",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 170.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              48.0,
+              334.0
+            ],
+            [
+              41.0,
+              335.0
+            ],
+            [
+              41.0,
+              340.0
+            ],
+            [
+              45.0,
+              340.0
+            ],
+            [
+              46.0,
+              344.0
+            ],
+            [
+              38.0,
+              345.0
+            ],
+            [
+              39.0,
+              352.0
+            ],
+            [
+              44.0,
+              352.0
+            ],
+            [
+              47.0,
+              346.0
+            ],
+            [
+              50.0,
+              346.0
+            ],
+            [
+              57.0,
+              342.0
+            ],
+            [
+              57.0,
+              338.0
+            ],
+            [
+              51.0,
+              338.0
+            ],
+            [
+              48.0,
+              334.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_23",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 52.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              241.0,
+              332.0
+            ],
+            [
+              239.0,
+              335.0
+            ],
+            [
+              239.0,
+              340.0
+            ],
+            [
+              245.0,
+              341.0
+            ],
+            [
+              246.0,
+              334.0
+            ],
+            [
+              245.0,
+              332.0
+            ],
+            [
+              241.0,
+              332.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_24",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 565.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.0,
+              330.0
+            ],
+            [
+              17.0,
+              332.0
+            ],
+            [
+              10.0,
+              333.0
+            ],
+            [
+              10.0,
+              337.0
+            ],
+            [
+              13.0,
+              340.0
+            ],
+            [
+              11.0,
+              344.0
+            ],
+            [
+              8.0,
+              342.0
+            ],
+            [
+              7.0,
+              338.0
+            ],
+            [
+              0.0,
+              339.0
+            ],
+            [
+              0.0,
+              358.0
+            ],
+            [
+              11.0,
+              360.0
+            ],
+            [
+              14.0,
+              358.0
+            ],
+            [
+              14.0,
+              354.0
+            ],
+            [
+              12.0,
+              352.0
+            ],
+            [
+              14.0,
+              349.0
+            ],
+            [
+              20.0,
+              345.0
+            ],
+            [
+              31.0,
+              345.0
+            ],
+            [
+              30.0,
+              339.0
+            ],
+            [
+              36.0,
+              336.0
+            ],
+            [
+              36.0,
+              331.0
+            ],
+            [
+              20.0,
+              330.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_25",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 28.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.0,
+              329.0
+            ],
+            [
+              173.0,
+              336.0
+            ],
+            [
+              177.0,
+              336.0
+            ],
+            [
+              178.0,
+              329.0
+            ],
+            [
+              174.0,
+              329.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_26",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 174.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.0,
+              328.0
+            ],
+            [
+              112.0,
+              329.0
+            ],
+            [
+              112.0,
+              336.0
+            ],
+            [
+              103.0,
+              339.0
+            ],
+            [
+              104.0,
+              348.0
+            ],
+            [
+              109.0,
+              348.0
+            ],
+            [
+              110.0,
+              345.0
+            ],
+            [
+              117.0,
+              339.0
+            ],
+            [
+              117.0,
+              337.0
+            ],
+            [
+              121.0,
+              336.0
+            ],
+            [
+              121.0,
+              330.0
+            ],
+            [
+              118.0,
+              328.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_27",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 36.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              156.0,
+              326.0
+            ],
+            [
+              148.0,
+              328.0
+            ],
+            [
+              148.0,
+              332.0
+            ],
+            [
+              156.0,
+              331.0
+            ],
+            [
+              156.0,
+              326.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_28",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 65.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              179.0,
+              313.0
+            ],
+            [
+              175.0,
+              317.0
+            ],
+            [
+              176.0,
+              322.0
+            ],
+            [
+              182.0,
+              322.0
+            ],
+            [
+              184.0,
+              320.0
+            ],
+            [
+              183.0,
+              313.0
+            ],
+            [
+              179.0,
+              313.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_29",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 68.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.0,
+              309.0
+            ],
+            [
+              102.0,
+              317.0
+            ],
+            [
+              104.0,
+              319.0
+            ],
+            [
+              108.0,
+              319.0
+            ],
+            [
+              110.0,
+              317.0
+            ],
+            [
+              110.0,
+              310.0
+            ],
+            [
+              103.0,
+              309.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_30",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 24.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              156.0,
+              303.0
+            ],
+            [
+              155.0,
+              308.0
+            ],
+            [
+              161.0,
+              307.0
+            ],
+            [
+              161.0,
+              303.0
+            ],
+            [
+              156.0,
+              303.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_31",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 40.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.0,
+              279.0
+            ],
+            [
+              129.0,
+              283.0
+            ],
+            [
+              131.0,
+              284.0
+            ],
+            [
+              138.0,
+              283.0
+            ],
+            [
+              138.0,
+              279.0
+            ],
+            [
+              129.0,
+              279.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_32",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 119.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.0,
+              277.0
+            ],
+            [
+              79.0,
+              280.0
+            ],
+            [
+              79.0,
+              285.0
+            ],
+            [
+              85.0,
+              287.0
+            ],
+            [
+              86.0,
+              299.0
+            ],
+            [
+              90.0,
+              299.0
+            ],
+            [
+              90.0,
+              285.0
+            ],
+            [
+              86.0,
+              285.0
+            ],
+            [
+              85.0,
+              277.0
+            ],
+            [
+              81.0,
+              277.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_33",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 27.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.0,
+              270.0
+            ],
+            [
+              115.0,
+              275.0
+            ],
+            [
+              121.0,
+              274.0
+            ],
+            [
+              121.0,
+              270.0
+            ],
+            [
+              115.0,
+              270.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_34",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 85.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              95.0,
+              268.0
+            ],
+            [
+              95.0,
+              272.0
+            ],
+            [
+              98.0,
+              277.0
+            ],
+            [
+              108.0,
+              276.0
+            ],
+            [
+              108.0,
+              272.0
+            ],
+            [
+              106.0,
+              270.0
+            ],
+            [
+              100.0,
+              270.0
+            ],
+            [
+              99.0,
+              268.0
+            ],
+            [
+              95.0,
+              268.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_35",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 100.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              161.0,
+              265.0
+            ],
+            [
+              152.0,
+              266.0
+            ],
+            [
+              150.0,
+              268.0
+            ],
+            [
+              151.0,
+              277.0
+            ],
+            [
+              156.0,
+              277.0
+            ],
+            [
+              160.0,
+              272.0
+            ],
+            [
+              161.0,
+              265.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_36",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 92.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.0,
+              264.0
+            ],
+            [
+              174.0,
+              268.0
+            ],
+            [
+              177.0,
+              273.0
+            ],
+            [
+              182.0,
+              274.0
+            ],
+            [
+              183.0,
+              278.0
+            ],
+            [
+              187.0,
+              278.0
+            ],
+            [
+              187.0,
+              274.0
+            ],
+            [
+              183.0,
+              273.0
+            ],
+            [
+              182.0,
+              264.0
+            ],
+            [
+              174.0,
+              264.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_37",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 106.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.0,
+              263.0
+            ],
+            [
+              123.0,
+              267.0
+            ],
+            [
+              123.0,
+              271.0
+            ],
+            [
+              130.0,
+              272.0
+            ],
+            [
+              138.0,
+              269.0
+            ],
+            [
+              137.0,
+              263.0
+            ],
+            [
+              128.0,
+              263.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_38",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 138.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.0,
+              257.0
+            ],
+            [
+              79.0,
+              262.0
+            ],
+            [
+              79.0,
+              270.0
+            ],
+            [
+              83.0,
+              270.0
+            ],
+            [
+              85.0,
+              272.0
+            ],
+            [
+              85.0,
+              275.0
+            ],
+            [
+              89.0,
+              275.0
+            ],
+            [
+              89.0,
+              259.0
+            ],
+            [
+              88.0,
+              257.0
+            ],
+            [
+              84.0,
+              257.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_39",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 94.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.0,
+              255.0
+            ],
+            [
+              100.0,
+              259.0
+            ],
+            [
+              105.0,
+              260.0
+            ],
+            [
+              105.0,
+              268.0
+            ],
+            [
+              114.0,
+              268.0
+            ],
+            [
+              112.0,
+              260.0
+            ],
+            [
+              107.0,
+              260.0
+            ],
+            [
+              106.0,
+              255.0
+            ],
+            [
+              100.0,
+              255.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_40",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 178.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              168.0,
+              245.0
+            ],
+            [
+              161.0,
+              249.0
+            ],
+            [
+              161.0,
+              254.0
+            ],
+            [
+              173.0,
+              255.0
+            ],
+            [
+              183.0,
+              253.0
+            ],
+            [
+              183.0,
+              249.0
+            ],
+            [
+              177.0,
+              245.0
+            ],
+            [
+              168.0,
+              245.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_41",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 77.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              173.0,
+              231.0
+            ],
+            [
+              171.0,
+              234.0
+            ],
+            [
+              171.0,
+              243.0
+            ],
+            [
+              176.0,
+              243.0
+            ],
+            [
+              178.0,
+              240.0
+            ],
+            [
+              178.0,
+              233.0
+            ],
+            [
+              177.0,
+              231.0
+            ],
+            [
+              173.0,
+              231.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_42",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 51.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.0,
+              230.0
+            ],
+            [
+              22.0,
+              234.0
+            ],
+            [
+              26.0,
+              236.0
+            ],
+            [
+              26.0,
+              239.0
+            ],
+            [
+              30.0,
+              239.0
+            ],
+            [
+              29.0,
+              230.0
+            ],
+            [
+              22.0,
+              230.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_43",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 31.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.0,
+              221.0
+            ],
+            [
+              26.0,
+              226.0
+            ],
+            [
+              32.0,
+              227.0
+            ],
+            [
+              32.0,
+              223.0
+            ],
+            [
+              30.0,
+              221.0
+            ],
+            [
+              26.0,
+              221.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_44",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 29.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.0,
+              189.0
+            ],
+            [
+              176.0,
+              195.0
+            ],
+            [
+              181.0,
+              196.0
+            ],
+            [
+              180.0,
+              189.0
+            ],
+            [
+              176.0,
+              189.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_45",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 33.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              222.0,
+              169.0
+            ],
+            [
+              224.0,
+              177.0
+            ],
+            [
+              228.0,
+              177.0
+            ],
+            [
+              227.0,
+              170.0
+            ],
+            [
+              222.0,
+              169.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_46",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 7150.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              200.0,
+              156.0
+            ],
+            [
+              194.0,
+              157.0
+            ],
+            [
+              194.0,
+              163.0
+            ],
+            [
+              197.0,
+              164.0
+            ],
+            [
+              197.0,
+              168.0
+            ],
+            [
+              190.0,
+              168.0
+            ],
+            [
+              186.0,
+              171.0
+            ],
+            [
+              186.0,
+              175.0
+            ],
+            [
+              190.0,
+              181.0
+            ],
+            [
+              188.0,
+              184.0
+            ],
+            [
+              188.0,
+              188.0
+            ],
+            [
+              194.0,
+              193.0
+            ],
+            [
+              193.0,
+              207.0
+            ],
+            [
+              185.0,
+              209.0
+            ],
+            [
+              182.0,
+              215.0
+            ],
+            [
+              182.0,
+              219.0
+            ],
+            [
+              186.0,
+              220.0
+            ],
+            [
+              186.0,
+              237.0
+            ],
+            [
+              191.0,
+              238.0
+            ],
+            [
+              195.0,
+              235.0
+            ],
+            [
+              197.0,
+              237.0
+            ],
+            [
+              195.0,
+              243.0
+            ],
+            [
+              191.0,
+              244.0
+            ],
+            [
+              191.0,
+              248.0
+            ],
+            [
+              198.0,
+              254.0
+            ],
+            [
+              199.0,
+              257.0
+            ],
+            [
+              203.0,
+              257.0
+            ],
+            [
+              204.0,
+              255.0
+            ],
+            [
+              205.0,
+              256.0
+            ],
+            [
+              203.0,
+              266.0
+            ],
+            [
+              207.0,
+              269.0
+            ],
+            [
+              207.0,
+              278.0
+            ],
+            [
+              215.0,
+              276.0
+            ],
+            [
+              216.0,
+              287.0
+            ],
+            [
+              218.0,
+              289.0
+            ],
+            [
+              214.0,
+              290.0
+            ],
+            [
+              211.0,
+              285.0
+            ],
+            [
+              207.0,
+              285.0
+            ],
+            [
+              205.0,
+              294.0
+            ],
+            [
+              201.0,
+              295.0
+            ],
+            [
+              201.0,
+              302.0
+            ],
+            [
+              204.0,
+              302.0
+            ],
+            [
+              205.0,
+              306.0
+            ],
+            [
+              199.0,
+              307.0
+            ],
+            [
+              199.0,
+              312.0
+            ],
+            [
+              205.0,
+              313.0
+            ],
+            [
+              208.0,
+              311.0
+            ],
+            [
+              213.0,
+              311.0
+            ],
+            [
+              216.0,
+              315.0
+            ],
+            [
+              216.0,
+              327.0
+            ],
+            [
+              208.0,
+              328.0
+            ],
+            [
+              208.0,
+              334.0
+            ],
+            [
+              215.0,
+              334.0
+            ],
+            [
+              219.0,
+              329.0
+            ],
+            [
+              223.0,
+              336.0
+            ],
+            [
+              230.0,
+              337.0
+            ],
+            [
+              236.0,
+              333.0
+            ],
+            [
+              240.0,
+              326.0
+            ],
+            [
+              242.0,
+              327.0
+            ],
+            [
+              242.0,
+              330.0
+            ],
+            [
+              247.0,
+              329.0
+            ],
+            [
+              249.0,
+              326.0
+            ],
+            [
+              250.0,
+              315.0
+            ],
+            [
+              255.0,
+              304.0
+            ],
+            [
+              257.0,
+              292.0
+            ],
+            [
+              272.0,
+              286.0
+            ],
+            [
+              275.0,
+              282.0
+            ],
+            [
+              275.0,
+              278.0
+            ],
+            [
+              269.0,
+              273.0
+            ],
+            [
+              264.0,
+              263.0
+            ],
+            [
+              256.0,
+              263.0
+            ],
+            [
+              251.0,
+              245.0
+            ],
+            [
+              242.0,
+              227.0
+            ],
+            [
+              242.0,
+              224.0
+            ],
+            [
+              237.0,
+              216.0
+            ],
+            [
+              237.0,
+              208.0
+            ],
+            [
+              225.0,
+              207.0
+            ],
+            [
+              224.0,
+              211.0
+            ],
+            [
+              222.0,
+              212.0
+            ],
+            [
+              222.0,
+              216.0
+            ],
+            [
+              226.0,
+              216.0
+            ],
+            [
+              227.0,
+              214.0
+            ],
+            [
+              229.0,
+              215.0
+            ],
+            [
+              233.0,
+              222.0
+            ],
+            [
+              232.0,
+              226.0
+            ],
+            [
+              223.0,
+              225.0
+            ],
+            [
+              220.0,
+              221.0
+            ],
+            [
+              220.0,
+              217.0
+            ],
+            [
+              213.0,
+              217.0
+            ],
+            [
+              211.0,
+              215.0
+            ],
+            [
+              219.0,
+              209.0
+            ],
+            [
+              220.0,
+              199.0
+            ],
+            [
+              219.0,
+              196.0
+            ],
+            [
+              216.0,
+              196.0
+            ],
+            [
+              214.0,
+              193.0
+            ],
+            [
+              210.0,
+              193.0
+            ],
+            [
+              205.0,
+              196.0
+            ],
+            [
+              203.0,
+              195.0
+            ],
+            [
+              203.0,
+              192.0
+            ],
+            [
+              200.0,
+              188.0
+            ],
+            [
+              200.0,
+              176.0
+            ],
+            [
+              196.0,
+              174.0
+            ],
+            [
+              196.0,
+              171.0
+            ],
+            [
+              198.0,
+              170.0
+            ],
+            [
+              200.0,
+              173.0
+            ],
+            [
+              204.0,
+              173.0
+            ],
+            [
+              205.0,
+              168.0
+            ],
+            [
+              200.0,
+              162.0
+            ],
+            [
+              200.0,
+              156.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_47",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 126.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              200.0,
+              140.0
+            ],
+            [
+              199.0,
+              143.0
+            ],
+            [
+              193.0,
+              143.0
+            ],
+            [
+              192.0,
+              149.0
+            ],
+            [
+              194.0,
+              151.0
+            ],
+            [
+              205.0,
+              152.0
+            ],
+            [
+              206.0,
+              142.0
+            ],
+            [
+              204.0,
+              140.0
+            ],
+            [
+              200.0,
+              140.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_48",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 140.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.0,
+              39.0
+            ],
+            [
+              45.0,
+              46.0
+            ],
+            [
+              48.0,
+              52.0
+            ],
+            [
+              60.0,
+              52.0
+            ],
+            [
+              60.0,
+              45.0
+            ],
+            [
+              55.0,
+              45.0
+            ],
+            [
+              51.0,
+              39.0
+            ],
+            [
+              46.0,
+              39.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_49",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 138.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.0,
+              29.0
+            ],
+            [
+              31.0,
+              33.0
+            ],
+            [
+              29.0,
+              35.0
+            ],
+            [
+              24.0,
+              35.0
+            ],
+            [
+              24.0,
+              39.0
+            ],
+            [
+              29.0,
+              40.0
+            ],
+            [
+              32.0,
+              45.0
+            ],
+            [
+              37.0,
+              45.0
+            ],
+            [
+              36.0,
+              38.0
+            ],
+            [
+              39.0,
+              36.0
+            ],
+            [
+              39.0,
+              32.0
+            ],
+            [
+              35.0,
+              29.0
+            ],
+            [
+              31.0,
+              29.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_50",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 87.5,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              17.0,
+              20.0
+            ],
+            [
+              13.0,
+              26.0
+            ],
+            [
+              13.0,
+              30.0
+            ],
+            [
+              24.0,
+              29.0
+            ],
+            [
+              24.0,
+              22.0
+            ],
+            [
+              22.0,
+              22.0
+            ],
+            [
+              21.0,
+              20.0
+            ],
+            [
+              17.0,
+              20.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_51",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 35584.0,
+        "is_core": true,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.0,
+              0.0
+            ],
+            [
+              54.0,
+              2.0
+            ],
+            [
+              34.0,
+              1.0
+            ],
+            [
+              34.0,
+              5.0
+            ],
+            [
+              38.0,
+              5.0
+            ],
+            [
+              41.0,
+              7.0
+            ],
+            [
+              40.0,
+              14.0
+            ],
+            [
+              36.0,
+              16.0
+            ],
+            [
+              36.0,
+              20.0
+            ],
+            [
+              43.0,
+              24.0
+            ],
+            [
+              43.0,
+              27.0
+            ],
+            [
+              48.0,
+              31.0
+            ],
+            [
+              50.0,
+              36.0
+            ],
+            [
+              53.0,
+              37.0
+            ],
+            [
+              57.0,
+              42.0
+            ],
+            [
+              63.0,
+              41.0
+            ],
+            [
+              63.0,
+              37.0
+            ],
+            [
+              65.0,
+              35.0
+            ],
+            [
+              71.0,
+              44.0
+            ],
+            [
+              71.0,
+              49.0
+            ],
+            [
+              65.0,
+              50.0
+            ],
+            [
+              66.0,
+              56.0
+            ],
+            [
+              58.0,
+              57.0
+            ],
+            [
+              55.0,
+              61.0
+            ],
+            [
+              38.0,
+              58.0
+            ],
+            [
+              37.0,
+              56.0
+            ],
+            [
+              39.0,
+              54.0
+            ],
+            [
+              43.0,
+              54.0
+            ],
+            [
+              43.0,
+              50.0
+            ],
+            [
+              33.0,
+              50.0
+            ],
+            [
+              33.0,
+              55.0
+            ],
+            [
+              21.0,
+              62.0
+            ],
+            [
+              21.0,
+              67.0
+            ],
+            [
+              23.0,
+              68.0
+            ],
+            [
+              23.0,
+              79.0
+            ],
+            [
+              20.0,
+              82.0
+            ],
+            [
+              20.0,
+              84.0
+            ],
+            [
+              16.0,
+              87.0
+            ],
+            [
+              16.0,
+              91.0
+            ],
+            [
+              12.0,
+              96.0
+            ],
+            [
+              12.0,
+              102.0
+            ],
+            [
+              9.0,
+              103.0
+            ],
+            [
+              8.0,
+              97.0
+            ],
+            [
+              4.0,
+              97.0
+            ],
+            [
+              2.0,
+              93.0
+            ],
+            [
+              0.0,
+              93.0
+            ],
+            [
+              0.0,
+              119.0
+            ],
+            [
+              7.0,
+              120.0
+            ],
+            [
+              8.0,
+              114.0
+            ],
+            [
+              12.0,
+              113.0
+            ],
+            [
+              12.0,
+              106.0
+            ],
+            [
+              18.0,
+              105.0
+            ],
+            [
+              18.0,
+              101.0
+            ],
+            [
+              16.0,
+              99.0
+            ],
+            [
+              22.0,
+              91.0
+            ],
+            [
+              26.0,
+              94.0
+            ],
+            [
+              26.0,
+              102.0
+            ],
+            [
+              33.0,
+              103.0
+            ],
+            [
+              31.0,
+              105.0
+            ],
+            [
+              31.0,
+              113.0
+            ],
+            [
+              35.0,
+              113.0
+            ],
+            [
+              37.0,
+              111.0
+            ],
+            [
+              39.0,
+              116.0
+            ],
+            [
+              38.0,
+              118.0
+            ],
+            [
+              35.0,
+              118.0
+            ],
+            [
+              36.0,
+              126.0
+            ],
+            [
+              32.0,
+              127.0
+            ],
+            [
+              29.0,
+              130.0
+            ],
+            [
+              24.0,
+              128.0
+            ],
+            [
+              25.0,
+              126.0
+            ],
+            [
+              29.0,
+              126.0
+            ],
+            [
+              29.0,
+              118.0
+            ],
+            [
+              25.0,
+              118.0
+            ],
+            [
+              24.0,
+              127.0
+            ],
+            [
+              19.0,
+              124.0
+            ],
+            [
+              14.0,
+              124.0
+            ],
+            [
+              12.0,
+              126.0
+            ],
+            [
+              7.0,
+              124.0
+            ],
+            [
+              0.0,
+              124.0
+            ],
+            [
+              0.0,
+              207.0
+            ],
+            [
+              8.0,
+              208.0
+            ],
+            [
+              12.0,
+              205.0
+            ],
+            [
+              15.0,
+              208.0
+            ],
+            [
+              14.0,
+              215.0
+            ],
+            [
+              24.0,
+              214.0
+            ],
+            [
+              28.0,
+              218.0
+            ],
+            [
+              33.0,
+              217.0
+            ],
+            [
+              41.0,
+              225.0
+            ],
+            [
+              46.0,
+              227.0
+            ],
+            [
+              46.0,
+              237.0
+            ],
+            [
+              53.0,
+              238.0
+            ],
+            [
+              51.0,
+              241.0
+            ],
+            [
+              42.0,
+              240.0
+            ],
+            [
+              40.0,
+              245.0
+            ],
+            [
+              30.0,
+              247.0
+            ],
+            [
+              27.0,
+              251.0
+            ],
+            [
+              24.0,
+              251.0
+            ],
+            [
+              22.0,
+              249.0
+            ],
+            [
+              22.0,
+              240.0
+            ],
+            [
+              20.0,
+              238.0
+            ],
+            [
+              13.0,
+              237.0
+            ],
+            [
+              13.0,
+              229.0
+            ],
+            [
+              7.0,
+              228.0
+            ],
+            [
+              9.0,
+              224.0
+            ],
+            [
+              16.0,
+              222.0
+            ],
+            [
+              16.0,
+              218.0
+            ],
+            [
+              9.0,
+              218.0
+            ],
+            [
+              8.0,
+              214.0
+            ],
+            [
+              4.0,
+              214.0
+            ],
+            [
+              5.0,
+              220.0
+            ],
+            [
+              0.0,
+              224.0
+            ],
+            [
+              0.0,
+              247.0
+            ],
+            [
+              3.0,
+              250.0
+            ],
+            [
+              7.0,
+              250.0
+            ],
+            [
+              7.0,
+              237.0
+            ],
+            [
+              10.0,
+              236.0
+            ],
+            [
+              11.0,
+              245.0
+            ],
+            [
+              18.0,
+              252.0
+            ],
+            [
+              14.0,
+              255.0
+            ],
+            [
+              14.0,
+              262.0
+            ],
+            [
+              11.0,
+              266.0
+            ],
+            [
+              7.0,
+              264.0
+            ],
+            [
+              0.0,
+              264.0
+            ],
+            [
+              0.0,
+              287.0
+            ],
+            [
+              2.0,
+              288.0
+            ],
+            [
+              2.0,
+              291.0
+            ],
+            [
+              0.0,
+              292.0
+            ],
+            [
+              0.0,
+              302.0
+            ],
+            [
+              4.0,
+              302.0
+            ],
+            [
+              6.0,
+              300.0
+            ],
+            [
+              6.0,
+              297.0
+            ],
+            [
+              10.0,
+              293.0
+            ],
+            [
+              15.0,
+              294.0
+            ],
+            [
+              16.0,
+              288.0
+            ],
+            [
+              18.0,
+              290.0
+            ],
+            [
+              22.0,
+              290.0
+            ],
+            [
+              24.0,
+              286.0
+            ],
+            [
+              28.0,
+              285.0
+            ],
+            [
+              30.0,
+              287.0
+            ],
+            [
+              30.0,
+              290.0
+            ],
+            [
+              29.0,
+              296.0
+            ],
+            [
+              25.0,
+              297.0
+            ],
+            [
+              25.0,
+              304.0
+            ],
+            [
+              23.0,
+              306.0
+            ],
+            [
+              16.0,
+              305.0
+            ],
+            [
+              14.0,
+              307.0
+            ],
+            [
+              4.0,
+              308.0
+            ],
+            [
+              4.0,
+              313.0
+            ],
+            [
+              0.0,
+              315.0
+            ],
+            [
+              0.0,
+              320.0
+            ],
+            [
+              2.0,
+              321.0
+            ],
+            [
+              0.0,
+              323.0
+            ],
+            [
+              0.0,
+              335.0
+            ],
+            [
+              6.0,
+              335.0
+            ],
+            [
+              10.0,
+              327.0
+            ],
+            [
+              17.0,
+              328.0
+            ],
+            [
+              19.0,
+              323.0
+            ],
+            [
+              23.0,
+              323.0
+            ],
+            [
+              25.0,
+              327.0
+            ],
+            [
+              42.0,
+              326.0
+            ],
+            [
+              50.0,
+              329.0
+            ],
+            [
+              57.0,
+              329.0
+            ],
+            [
+              59.0,
+              332.0
+            ],
+            [
+              63.0,
+              332.0
+            ],
+            [
+              65.0,
+              330.0
+            ],
+            [
+              70.0,
+              329.0
+            ],
+            [
+              82.0,
+              329.0
+            ],
+            [
+              92.0,
+              334.0
+            ],
+            [
+              101.0,
+              334.0
+            ],
+            [
+              103.0,
+              332.0
+            ],
+            [
+              103.0,
+              328.0
+            ],
+            [
+              99.0,
+              325.0
+            ],
+            [
+              99.0,
+              322.0
+            ],
+            [
+              94.0,
+              322.0
+            ],
+            [
+              90.0,
+              324.0
+            ],
+            [
+              87.0,
+              319.0
+            ],
+            [
+              79.0,
+              320.0
+            ],
+            [
+              76.0,
+              318.0
+            ],
+            [
+              78.0,
+              316.0
+            ],
+            [
+              79.0,
+              311.0
+            ],
+            [
+              84.0,
+              307.0
+            ],
+            [
+              84.0,
+              298.0
+            ],
+            [
+              76.0,
+              297.0
+            ],
+            [
+              75.0,
+              300.0
+            ],
+            [
+              70.0,
+              297.0
+            ],
+            [
+              68.0,
+              292.0
+            ],
+            [
+              63.0,
+              292.0
+            ],
+            [
+              61.0,
+              290.0
+            ],
+            [
+              70.0,
+              283.0
+            ],
+            [
+              70.0,
+              279.0
+            ],
+            [
+              74.0,
+              275.0
+            ],
+            [
+              74.0,
+              270.0
+            ],
+            [
+              67.0,
+              271.0
+            ],
+            [
+              66.0,
+              268.0
+            ],
+            [
+              70.0,
+              262.0
+            ],
+            [
+              77.0,
+              259.0
+            ],
+            [
+              82.0,
+              254.0
+            ],
+            [
+              82.0,
+              250.0
+            ],
+            [
+              86.0,
+              248.0
+            ],
+            [
+              85.0,
+              241.0
+            ],
+            [
+              87.0,
+              240.0
+            ],
+            [
+              90.0,
+              243.0
+            ],
+            [
+              90.0,
+              247.0
+            ],
+            [
+              94.0,
+              247.0
+            ],
+            [
+              95.0,
+              240.0
+            ],
+            [
+              98.0,
+              236.0
+            ],
+            [
+              101.0,
+              238.0
+            ],
+            [
+              106.0,
+              238.0
+            ],
+            [
+              106.0,
+              231.0
+            ],
+            [
+              115.0,
+              230.0
+            ],
+            [
+              117.0,
+              228.0
+            ],
+            [
+              117.0,
+              224.0
+            ],
+            [
+              114.0,
+              224.0
+            ],
+            [
+              110.0,
+              221.0
+            ],
+            [
+              99.0,
+              220.0
+            ],
+            [
+              100.0,
+              209.0
+            ],
+            [
+              93.0,
+              209.0
+            ],
+            [
+              90.0,
+              212.0
+            ],
+            [
+              88.0,
+              210.0
+            ],
+            [
+              92.0,
+              206.0
+            ],
+            [
+              103.0,
+              206.0
+            ],
+            [
+              108.0,
+              219.0
+            ],
+            [
+              113.0,
+              219.0
+            ],
+            [
+              116.0,
+              216.0
+            ],
+            [
+              118.0,
+              216.0
+            ],
+            [
+              120.0,
+              218.0
+            ],
+            [
+              120.0,
+              221.0
+            ],
+            [
+              127.0,
+              221.0
+            ],
+            [
+              125.0,
+              223.0
+            ],
+            [
+              125.0,
+              228.0
+            ],
+            [
+              118.0,
+              231.0
+            ],
+            [
+              120.0,
+              244.0
+            ],
+            [
+              118.0,
+              247.0
+            ],
+            [
+              115.0,
+              248.0
+            ],
+            [
+              116.0,
+              253.0
+            ],
+            [
+              124.0,
+              253.0
+            ],
+            [
+              127.0,
+              256.0
+            ],
+            [
+              142.0,
+              254.0
+            ],
+            [
+              142.0,
+              248.0
+            ],
+            [
+              147.0,
+              246.0
+            ],
+            [
+              147.0,
+              242.0
+            ],
+            [
+              156.0,
+              236.0
+            ],
+            [
+              160.0,
+              236.0
+            ],
+            [
+              163.0,
+              239.0
+            ],
+            [
+              168.0,
+              239.0
+            ],
+            [
+              168.0,
+              234.0
+            ],
+            [
+              166.0,
+              231.0
+            ],
+            [
+              167.0,
+              226.0
+            ],
+            [
+              171.0,
+              224.0
+            ],
+            [
+              172.0,
+              219.0
+            ],
+            [
+              172.0,
+              209.0
+            ],
+            [
+              166.0,
+              208.0
+            ],
+            [
+              166.0,
+              202.0
+            ],
+            [
+              164.0,
+              200.0
+            ],
+            [
+              165.0,
+              198.0
+            ],
+            [
+              170.0,
+              196.0
+            ],
+            [
+              170.0,
+              192.0
+            ],
+            [
+              161.0,
+              187.0
+            ],
+            [
+              163.0,
+              185.0
+            ],
+            [
+              163.0,
+              181.0
+            ],
+            [
+              161.0,
+              178.0
+            ],
+            [
+              165.0,
+              177.0
+            ],
+            [
+              164.0,
+              170.0
+            ],
+            [
+              149.0,
+              161.0
+            ],
+            [
+              148.0,
+              152.0
+            ],
+            [
+              143.0,
+              152.0
+            ],
+            [
+              139.0,
+              155.0
+            ],
+            [
+              133.0,
+              154.0
+            ],
+            [
+              131.0,
+              152.0
+            ],
+            [
+              136.0,
+              147.0
+            ],
+            [
+              135.0,
+              139.0
+            ],
+            [
+              133.0,
+              136.0
+            ],
+            [
+              126.0,
+              136.0
+            ],
+            [
+              124.0,
+              123.0
+            ],
+            [
+              116.0,
+              114.0
+            ],
+            [
+              117.0,
+              108.0
+            ],
+            [
+              114.0,
+              108.0
+            ],
+            [
+              110.0,
+              104.0
+            ],
+            [
+              110.0,
+              101.0
+            ],
+            [
+              106.0,
+              100.0
+            ],
+            [
+              106.0,
+              96.0
+            ],
+            [
+              101.0,
+              88.0
+            ],
+            [
+              101.0,
+              82.0
+            ],
+            [
+              93.0,
+              82.0
+            ],
+            [
+              93.0,
+              90.0
+            ],
+            [
+              96.0,
+              95.0
+            ],
+            [
+              91.0,
+              95.0
+            ],
+            [
+              90.0,
+              90.0
+            ],
+            [
+              85.0,
+              88.0
+            ],
+            [
+              85.0,
+              81.0
+            ],
+            [
+              79.0,
+              76.0
+            ],
+            [
+              78.0,
+              69.0
+            ],
+            [
+              80.0,
+              65.0
+            ],
+            [
+              83.0,
+              64.0
+            ],
+            [
+              87.0,
+              70.0
+            ],
+            [
+              85.0,
+              73.0
+            ],
+            [
+              85.0,
+              78.0
+            ],
+            [
+              92.0,
+              79.0
+            ],
+            [
+              94.0,
+              75.0
+            ],
+            [
+              100.0,
+              73.0
+            ],
+            [
+              105.0,
+              77.0
+            ],
+            [
+              105.0,
+              81.0
+            ],
+            [
+              111.0,
+              88.0
+            ],
+            [
+              118.0,
+              88.0
+            ],
+            [
+              120.0,
+              90.0
+            ],
+            [
+              118.0,
+              103.0
+            ],
+            [
+              123.0,
+              104.0
+            ],
+            [
+              126.0,
+              99.0
+            ],
+            [
+              129.0,
+              101.0
+            ],
+            [
+              130.0,
+              111.0
+            ],
+            [
+              124.0,
+              113.0
+            ],
+            [
+              124.0,
+              118.0
+            ],
+            [
+              130.0,
+              120.0
+            ],
+            [
+              131.0,
+              123.0
+            ],
+            [
+              135.0,
+              123.0
+            ],
+            [
+              136.0,
+              127.0
+            ],
+            [
+              141.0,
+              126.0
+            ],
+            [
+              141.0,
+              121.0
+            ],
+            [
+              137.0,
+              121.0
+            ],
+            [
+              135.0,
+              118.0
+            ],
+            [
+              133.0,
+              118.0
+            ],
+            [
+              133.0,
+              113.0
+            ],
+            [
+              135.0,
+              113.0
+            ],
+            [
+              139.0,
+              117.0
+            ],
+            [
+              143.0,
+              117.0
+            ],
+            [
+              146.0,
+              112.0
+            ],
+            [
+              148.0,
+              112.0
+            ],
+            [
+              151.0,
+              115.0
+            ],
+            [
+              152.0,
+              122.0
+            ],
+            [
+              150.0,
+              124.0
+            ],
+            [
+              147.0,
+              124.0
+            ],
+            [
+              147.0,
+              128.0
+            ],
+            [
+              150.0,
+              130.0
+            ],
+            [
+              150.0,
+              135.0
+            ],
+            [
+              140.0,
+              135.0
+            ],
+            [
+              140.0,
+              142.0
+            ],
+            [
+              149.0,
+              142.0
+            ],
+            [
+              152.0,
+              144.0
+            ],
+            [
+              157.0,
+              144.0
+            ],
+            [
+              159.0,
+              141.0
+            ],
+            [
+              160.0,
+              143.0
+            ],
+            [
+              164.0,
+              143.0
+            ],
+            [
+              167.0,
+              141.0
+            ],
+            [
+              167.0,
+              137.0
+            ],
+            [
+              163.0,
+              134.0
+            ],
+            [
+              165.0,
+              128.0
+            ],
+            [
+              168.0,
+              127.0
+            ],
+            [
+              171.0,
+              122.0
+            ],
+            [
+              175.0,
+              122.0
+            ],
+            [
+              177.0,
+              118.0
+            ],
+            [
+              182.0,
+              117.0
+            ],
+            [
+              182.0,
+              112.0
+            ],
+            [
+              181.0,
+              110.0
+            ],
+            [
+              168.0,
+              112.0
+            ],
+            [
+              166.0,
+              111.0
+            ],
+            [
+              168.0,
+              99.0
+            ],
+            [
+              164.0,
+              95.0
+            ],
+            [
+              164.0,
+              93.0
+            ],
+            [
+              166.0,
+              89.0
+            ],
+            [
+              173.0,
+              97.0
+            ],
+            [
+              177.0,
+              97.0
+            ],
+            [
+              179.0,
+              93.0
+            ],
+            [
+              183.0,
+              93.0
+            ],
+            [
+              183.0,
+              88.0
+            ],
+            [
+              174.0,
+              78.0
+            ],
+            [
+              173.0,
+              75.0
+            ],
+            [
+              169.0,
+              73.0
+            ],
+            [
+              161.0,
+              64.0
+            ],
+            [
+              157.0,
+              64.0
+            ],
+            [
+              154.0,
+              59.0
+            ],
+            [
+              150.0,
+              59.0
+            ],
+            [
+              150.0,
+              63.0
+            ],
+            [
+              154.0,
+              66.0
+            ],
+            [
+              153.0,
+              70.0
+            ],
+            [
+              150.0,
+              72.0
+            ],
+            [
+              148.0,
+              67.0
+            ],
+            [
+              140.0,
+              61.0
+            ],
+            [
+              140.0,
+              56.0
+            ],
+            [
+              132.0,
+              54.0
+            ],
+            [
+              121.0,
+              54.0
+            ],
+            [
+              116.0,
+              39.0
+            ],
+            [
+              108.0,
+              38.0
+            ],
+            [
+              106.0,
+              34.0
+            ],
+            [
+              101.0,
+              34.0
+            ],
+            [
+              99.0,
+              32.0
+            ],
+            [
+              98.0,
+              18.0
+            ],
+            [
+              91.0,
+              19.0
+            ],
+            [
+              90.0,
+              15.0
+            ],
+            [
+              86.0,
+              10.0
+            ],
+            [
+              74.0,
+              6.0
+            ],
+            [
+              66.0,
+              0.0
+            ],
+            [
+              55.0,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_0",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 83.5,
+        "is_core": false,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              234.0,
+              368.0
+            ],
+            [
+              227.0,
+              382.0
+            ],
+            [
+              223.0,
+              386.0
+            ],
+            [
+              221.0,
+              395.0
+            ],
+            [
+              229.0,
+              387.0
+            ],
+            [
+              229.0,
+              383.0
+            ],
+            [
+              236.0,
+              370.0
+            ],
+            [
+              234.0,
+              368.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_1",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 100791.0,
+        "is_core": false,
+        "patient_id": "55706",
+        "image_id": "106104702",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0,
+        "pred_decision": "BENIGN",
+        "age": 51.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              23.0
+            ],
+            [
+              3.0,
+              23.0
+            ],
+            [
+              4.0,
+              29.0
+            ],
+            [
+              7.0,
+              30.0
+            ],
+            [
+              9.0,
+              42.0
+            ],
+            [
+              17.0,
+              44.0
+            ],
+            [
+              17.0,
+              55.0
+            ],
+            [
+              15.0,
+              57.0
+            ],
+            [
+              6.0,
+              57.0
+            ],
+            [
+              5.0,
+              44.0
+            ],
+            [
+              0.0,
+              44.0
+            ],
+            [
+              0.0,
+              511.0
+            ],
+            [
+              97.0,
+              511.0
+            ],
+            [
+              97.0,
+              508.0
+            ],
+            [
+              99.0,
+              506.0
+            ],
+            [
+              109.0,
+              501.0
+            ],
+            [
+              113.0,
+              496.0
+            ],
+            [
+              122.0,
+              493.0
+            ],
+            [
+              131.0,
+              483.0
+            ],
+            [
+              128.0,
+              483.0
+            ],
+            [
+              125.0,
+              486.0
+            ],
+            [
+              115.0,
+              489.0
+            ],
+            [
+              112.0,
+              494.0
+            ],
+            [
+              102.0,
+              494.0
+            ],
+            [
+              101.0,
+              487.0
+            ],
+            [
+              110.0,
+              480.0
+            ],
+            [
+              111.0,
+              476.0
+            ],
+            [
+              117.0,
+              476.0
+            ],
+            [
+              120.0,
+              472.0
+            ],
+            [
+              132.0,
+              473.0
+            ],
+            [
+              135.0,
+              469.0
+            ],
+            [
+              141.0,
+              469.0
+            ],
+            [
+              142.0,
+              477.0
+            ],
+            [
+              146.0,
+              477.0
+            ],
+            [
+              151.0,
+              470.0
+            ],
+            [
+              162.0,
+              465.0
+            ],
+            [
+              165.0,
+              461.0
+            ],
+            [
+              174.0,
+              456.0
+            ],
+            [
+              185.0,
+              445.0
+            ],
+            [
+              185.0,
+              443.0
+            ],
+            [
+              193.0,
+              435.0
+            ],
+            [
+              197.0,
+              433.0
+            ],
+            [
+              198.0,
+              430.0
+            ],
+            [
+              209.0,
+              418.0
+            ],
+            [
+              215.0,
+              407.0
+            ],
+            [
+              215.0,
+              404.0
+            ],
+            [
+              219.0,
+              402.0
+            ],
+            [
+              219.0,
+              399.0
+            ],
+            [
+              216.0,
+              399.0
+            ],
+            [
+              216.0,
+              403.0
+            ],
+            [
+              212.0,
+              405.0
+            ],
+            [
+              209.0,
+              411.0
+            ],
+            [
+              200.0,
+              419.0
+            ],
+            [
+              198.0,
+              423.0
+            ],
+            [
+              188.0,
+              422.0
+            ],
+            [
+              188.0,
+              416.0
+            ],
+            [
+              190.0,
+              414.0
+            ],
+            [
+              190.0,
+              411.0
+            ],
+            [
+              195.0,
+              410.0
+            ],
+            [
+              197.0,
+              407.0
+            ],
+            [
+              200.0,
+              407.0
+            ],
+            [
+              201.0,
+              405.0
+            ],
+            [
+              200.0,
+              396.0
+            ],
+            [
+              211.0,
+              395.0
+            ],
+            [
+              212.0,
+              391.0
+            ],
+            [
+              211.0,
+              389.0
+            ],
+            [
+              201.0,
+              387.0
+            ],
+            [
+              201.0,
+              380.0
+            ],
+            [
+              209.0,
+              369.0
+            ],
+            [
+              202.0,
+              367.0
+            ],
+            [
+              202.0,
+              361.0
+            ],
+            [
+              207.0,
+              359.0
+            ],
+            [
+              209.0,
+              352.0
+            ],
+            [
+              216.0,
+              352.0
+            ],
+            [
+              217.0,
+              358.0
+            ],
+            [
+              222.0,
+              358.0
+            ],
+            [
+              225.0,
+              362.0
+            ],
+            [
+              227.0,
+              360.0
+            ],
+            [
+              227.0,
+              354.0
+            ],
+            [
+              230.0,
+              351.0
+            ],
+            [
+              237.0,
+              351.0
+            ],
+            [
+              239.0,
+              357.0
+            ],
+            [
+              241.0,
+              355.0
+            ],
+            [
+              245.0,
+              347.0
+            ],
+            [
+              247.0,
+              330.0
+            ],
+            [
+              250.0,
+              325.0
+            ],
+            [
+              250.0,
+              317.0
+            ],
+            [
+              256.0,
+              303.0
+            ],
+            [
+              257.0,
+              293.0
+            ],
+            [
+              274.0,
+              285.0
+            ],
+            [
+              275.0,
+              278.0
+            ],
+            [
+              269.0,
+              272.0
+            ],
+            [
+              265.0,
+              263.0
+            ],
+            [
+              256.0,
+              261.0
+            ],
+            [
+              252.0,
+              246.0
+            ],
+            [
+              247.0,
+              237.0
+            ],
+            [
+              242.0,
+              220.0
+            ],
+            [
+              239.0,
+              215.0
+            ],
+            [
+              238.0,
+              200.0
+            ],
+            [
+              233.0,
+              190.0
+            ],
+            [
+              233.0,
+              183.0
+            ],
+            [
+              230.0,
+              180.0
+            ],
+            [
+              228.0,
+              170.0
+            ],
+            [
+              223.0,
+              165.0
+            ],
+            [
+              221.0,
+              153.0
+            ],
+            [
+              216.0,
+              145.0
+            ],
+            [
+              207.0,
+              143.0
+            ],
+            [
+              207.0,
+              134.0
+            ],
+            [
+              209.0,
+              133.0
+            ],
+            [
+              209.0,
+              129.0
+            ],
+            [
+              205.0,
+              125.0
+            ],
+            [
+              202.0,
+              118.0
+            ],
+            [
+              198.0,
+              116.0
+            ],
+            [
+              197.0,
+              120.0
+            ],
+            [
+              188.0,
+              119.0
+            ],
+            [
+              187.0,
+              111.0
+            ],
+            [
+              185.0,
+              111.0
+            ],
+            [
+              179.0,
+              105.0
+            ],
+            [
+              179.0,
+              98.0
+            ],
+            [
+              187.0,
+              97.0
+            ],
+            [
+              187.0,
+              94.0
+            ],
+            [
+              173.0,
+              74.0
+            ],
+            [
+              169.0,
+              72.0
+            ],
+            [
+              163.0,
+              64.0
+            ],
+            [
+              158.0,
+              62.0
+            ],
+            [
+              154.0,
+              58.0
+            ],
+            [
+              151.0,
+              58.0
+            ],
+            [
+              139.0,
+              45.0
+            ],
+            [
+              135.0,
+              45.0
+            ],
+            [
+              134.0,
+              47.0
+            ],
+            [
+              128.0,
+              47.0
+            ],
+            [
+              125.0,
+              45.0
+            ],
+            [
+              124.0,
+              39.0
+            ],
+            [
+              119.0,
+              32.0
+            ],
+            [
+              115.0,
+              31.0
+            ],
+            [
+              110.0,
+              25.0
+            ],
+            [
+              102.0,
+              23.0
+            ],
+            [
+              100.0,
+              18.0
+            ],
+            [
+              93.0,
+              16.0
+            ],
+            [
+              85.0,
+              9.0
+            ],
+            [
+              72.0,
+              4.0
+            ],
+            [
+              71.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

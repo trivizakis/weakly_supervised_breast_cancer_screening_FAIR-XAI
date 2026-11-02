@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "coordinate_system": "pixel_space",
+    "generator": "ViTXAIEnsembler"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_0",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 25.0,
+        "is_core": true,
+        "patient_id": "47673",
+        "image_id": "1583323112",
+        "architecture": "vgg16",
+        "true_cancer": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              413.0,
+              190.0
+            ],
+            [
+              412.0,
+              195.0
+            ],
+            [
+              417.0,
+              196.0
+            ],
+            [
+              417.0,
+              190.0
+            ],
+            [
+              413.0,
+              190.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_1",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 523.0,
+        "is_core": true,
+        "patient_id": "47673",
+        "image_id": "1583323112",
+        "architecture": "vgg16",
+        "true_cancer": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              446.0,
+              114.0
+            ],
+            [
+              431.0,
+              116.0
+            ],
+            [
+              431.0,
+              118.0
+            ],
+            [
+              427.0,
+              121.0
+            ],
+            [
+              427.0,
+              130.0
+            ],
+            [
+              429.0,
+              134.0
+            ],
+            [
+              448.0,
+              135.0
+            ],
+            [
+              454.0,
+              134.0
+            ],
+            [
+              456.0,
+              132.0
+            ],
+            [
+              456.0,
+              129.0
+            ],
+            [
+              458.0,
+              127.0
+            ],
+            [
+              458.0,
+              121.0
+            ],
+            [
+              451.0,
+              119.0
+            ],
+            [
+              446.0,
+              114.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_0",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 146.0,
+        "is_core": false,
+        "patient_id": "47673",
+        "image_id": "1583323112",
+        "architecture": "vgg16",
+        "true_cancer": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              416.0,
+              186.0
+            ],
+            [
+              408.0,
+              193.0
+            ],
+            [
+              413.0,
+              198.0
+            ],
+            [
+              420.0,
+              198.0
+            ],
+            [
+              421.0,
+              204.0
+            ],
+            [
+              423.0,
+              205.0
+            ],
+            [
+              425.0,
+              202.0
+            ],
+            [
+              421.0,
+              201.0
+            ],
+            [
+              421.0,
+              195.0
+            ],
+            [
+              424.0,
+              192.0
+            ],
+            [
+              425.0,
+              188.0
+            ],
+            [
+              416.0,
+              186.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_1",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 40.0,
+        "is_core": false,
+        "patient_id": "47673",
+        "image_id": "1583323112",
+        "architecture": "vgg16",
+        "true_cancer": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              411.0,
+              169.0
+            ],
+            [
+              409.0,
+              171.0
+            ],
+            [
+              409.0,
+              174.0
+            ],
+            [
+              411.0,
+              176.0
+            ],
+            [
+              414.0,
+              176.0
+            ],
+            [
+              417.0,
+              170.0
+            ],
+            [
+              411.0,
+              169.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_2",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 26.5,
+        "is_core": false,
+        "patient_id": "47673",
+        "image_id": "1583323112",
+        "architecture": "vgg16",
+        "true_cancer": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              433.0,
+              147.0
+            ],
+            [
+              431.0,
+              149.0
+            ],
+            [
+              432.0,
+              151.0
+            ],
+            [
+              435.0,
+              152.0
+            ],
+            [
+              438.0,
+              150.0
+            ],
+            [
+              438.0,
+              147.0
+            ],
+            [
+              433.0,
+              147.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_3",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 888.0,
+        "is_core": false,
+        "patient_id": "47673",
+        "image_id": "1583323112",
+        "architecture": "vgg16",
+        "true_cancer": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              437.0,
+              106.0
+            ],
+            [
+              434.0,
+              113.0
+            ],
+            [
+              426.0,
+              114.0
+            ],
+            [
+              425.0,
+              130.0
+            ],
+            [
+              429.0,
+              135.0
+            ],
+            [
+              438.0,
+              136.0
+            ],
+            [
+              440.0,
+              144.0
+            ],
+            [
+              449.0,
+              136.0
+            ],
+            [
+              458.0,
+              133.0
+            ],
+            [
+              463.0,
+              133.0
+            ],
+            [
+              464.0,
+              128.0
+            ],
+            [
+              461.0,
+              124.0
+            ],
+            [
+              461.0,
+              116.0
+            ],
+            [
+              459.0,
+              114.0
+            ],
+            [
+              447.0,
+              113.0
+            ],
+            [
+              443.0,
+              107.0
+            ],
+            [
+              437.0,
+              106.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

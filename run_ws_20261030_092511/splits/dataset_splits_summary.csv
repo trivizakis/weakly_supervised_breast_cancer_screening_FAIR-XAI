@@ -1,0 +1,5 @@
+set_name,total_samples,malignant_count,benign_count,malignant_pct
+convergence_set,1854,927,927,50.0
+training_set,1668,834,834,50.0
+validation_set,186,93,93,50.0
+testing_set,462,231,231,50.0

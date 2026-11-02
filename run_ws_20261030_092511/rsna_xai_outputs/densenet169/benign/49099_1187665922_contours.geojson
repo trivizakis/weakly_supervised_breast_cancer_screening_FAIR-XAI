@@ -1,0 +1,856 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "coordinate_system": "pixel_space",
+    "generator": "ViTXAIEnsembler"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_0",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 115.0,
+        "is_core": true,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.0,
+              382.0
+            ],
+            [
+              16.0,
+              385.0
+            ],
+            [
+              17.0,
+              392.0
+            ],
+            [
+              25.0,
+              392.0
+            ],
+            [
+              29.0,
+              390.0
+            ],
+            [
+              30.0,
+              384.0
+            ],
+            [
+              28.0,
+              382.0
+            ],
+            [
+              23.0,
+              382.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_1",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 48.5,
+        "is_core": true,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0,
+              225.0
+            ],
+            [
+              75.0,
+              230.0
+            ],
+            [
+              85.0,
+              232.0
+            ],
+            [
+              85.0,
+              227.0
+            ],
+            [
+              76.0,
+              225.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_2",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 1043.5,
+        "is_core": true,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.0,
+              191.0
+            ],
+            [
+              71.0,
+              193.0
+            ],
+            [
+              71.0,
+              197.0
+            ],
+            [
+              75.0,
+              199.0
+            ],
+            [
+              71.0,
+              203.0
+            ],
+            [
+              63.0,
+              203.0
+            ],
+            [
+              61.0,
+              206.0
+            ],
+            [
+              57.0,
+              208.0
+            ],
+            [
+              48.0,
+              207.0
+            ],
+            [
+              40.0,
+              211.0
+            ],
+            [
+              40.0,
+              215.0
+            ],
+            [
+              54.0,
+              216.0
+            ],
+            [
+              54.0,
+              218.0
+            ],
+            [
+              58.0,
+              222.0
+            ],
+            [
+              55.0,
+              224.0
+            ],
+            [
+              55.0,
+              229.0
+            ],
+            [
+              57.0,
+              232.0
+            ],
+            [
+              61.0,
+              232.0
+            ],
+            [
+              62.0,
+              234.0
+            ],
+            [
+              66.0,
+              234.0
+            ],
+            [
+              66.0,
+              230.0
+            ],
+            [
+              61.0,
+              229.0
+            ],
+            [
+              63.0,
+              224.0
+            ],
+            [
+              70.0,
+              219.0
+            ],
+            [
+              75.0,
+              221.0
+            ],
+            [
+              82.0,
+              221.0
+            ],
+            [
+              87.0,
+              220.0
+            ],
+            [
+              88.0,
+              218.0
+            ],
+            [
+              94.0,
+              218.0
+            ],
+            [
+              94.0,
+              214.0
+            ],
+            [
+              88.0,
+              210.0
+            ],
+            [
+              91.0,
+              207.0
+            ],
+            [
+              91.0,
+              204.0
+            ],
+            [
+              95.0,
+              202.0
+            ],
+            [
+              95.0,
+              196.0
+            ],
+            [
+              92.0,
+              194.0
+            ],
+            [
+              84.0,
+              194.0
+            ],
+            [
+              80.0,
+              191.0
+            ],
+            [
+              73.0,
+              191.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_0",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 614.5,
+        "is_core": false,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.0,
+              365.0
+            ],
+            [
+              16.0,
+              370.0
+            ],
+            [
+              13.0,
+              371.0
+            ],
+            [
+              11.0,
+              374.0
+            ],
+            [
+              11.0,
+              377.0
+            ],
+            [
+              15.0,
+              379.0
+            ],
+            [
+              14.0,
+              392.0
+            ],
+            [
+              11.0,
+              394.0
+            ],
+            [
+              12.0,
+              398.0
+            ],
+            [
+              16.0,
+              397.0
+            ],
+            [
+              19.0,
+              393.0
+            ],
+            [
+              28.0,
+              391.0
+            ],
+            [
+              35.0,
+              391.0
+            ],
+            [
+              42.0,
+              395.0
+            ],
+            [
+              48.0,
+              394.0
+            ],
+            [
+              48.0,
+              392.0
+            ],
+            [
+              44.0,
+              389.0
+            ],
+            [
+              45.0,
+              379.0
+            ],
+            [
+              38.0,
+              378.0
+            ],
+            [
+              36.0,
+              375.0
+            ],
+            [
+              29.0,
+              375.0
+            ],
+            [
+              25.0,
+              371.0
+            ],
+            [
+              18.0,
+              371.0
+            ],
+            [
+              16.0,
+              365.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_1",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 50.0,
+        "is_core": false,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.0,
+              236.0
+            ],
+            [
+              105.0,
+              240.0
+            ],
+            [
+              107.0,
+              242.0
+            ],
+            [
+              117.0,
+              242.0
+            ],
+            [
+              111.0,
+              236.0
+            ],
+            [
+              106.0,
+              236.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_2",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 23.0,
+        "is_core": false,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.0,
+              225.0
+            ],
+            [
+              31.0,
+              231.0
+            ],
+            [
+              27.0,
+              233.0
+            ],
+            [
+              27.0,
+              236.0
+            ],
+            [
+              29.0,
+              237.0
+            ],
+            [
+              33.0,
+              235.0
+            ],
+            [
+              31.0,
+              231.0
+            ],
+            [
+              31.0,
+              225.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_3",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 60.5,
+        "is_core": false,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              129.0,
+              203.0
+            ],
+            [
+              125.0,
+              211.0
+            ],
+            [
+              128.0,
+              214.0
+            ],
+            [
+              132.0,
+              213.0
+            ],
+            [
+              133.0,
+              211.0
+            ],
+            [
+              133.0,
+              206.0
+            ],
+            [
+              131.0,
+              203.0
+            ],
+            [
+              129.0,
+              203.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_4",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 2368.0,
+        "is_core": false,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.0,
+              181.0
+            ],
+            [
+              56.0,
+              185.0
+            ],
+            [
+              56.0,
+              191.0
+            ],
+            [
+              51.0,
+              192.0
+            ],
+            [
+              50.0,
+              204.0
+            ],
+            [
+              44.0,
+              209.0
+            ],
+            [
+              40.0,
+              209.0
+            ],
+            [
+              35.0,
+              214.0
+            ],
+            [
+              43.0,
+              217.0
+            ],
+            [
+              52.0,
+              217.0
+            ],
+            [
+              52.0,
+              224.0
+            ],
+            [
+              49.0,
+              227.0
+            ],
+            [
+              46.0,
+              227.0
+            ],
+            [
+              50.0,
+              229.0
+            ],
+            [
+              51.0,
+              236.0
+            ],
+            [
+              58.0,
+              239.0
+            ],
+            [
+              61.0,
+              236.0
+            ],
+            [
+              68.0,
+              235.0
+            ],
+            [
+              70.0,
+              232.0
+            ],
+            [
+              76.0,
+              232.0
+            ],
+            [
+              81.0,
+              235.0
+            ],
+            [
+              85.0,
+              240.0
+            ],
+            [
+              87.0,
+              240.0
+            ],
+            [
+              89.0,
+              238.0
+            ],
+            [
+              90.0,
+              232.0
+            ],
+            [
+              96.0,
+              232.0
+            ],
+            [
+              95.0,
+              222.0
+            ],
+            [
+              98.0,
+              221.0
+            ],
+            [
+              98.0,
+              214.0
+            ],
+            [
+              101.0,
+              211.0
+            ],
+            [
+              102.0,
+              206.0
+            ],
+            [
+              114.0,
+              206.0
+            ],
+            [
+              116.0,
+              205.0
+            ],
+            [
+              116.0,
+              203.0
+            ],
+            [
+              111.0,
+              199.0
+            ],
+            [
+              108.0,
+              201.0
+            ],
+            [
+              102.0,
+              201.0
+            ],
+            [
+              94.0,
+              193.0
+            ],
+            [
+              92.0,
+              188.0
+            ],
+            [
+              88.0,
+              190.0
+            ],
+            [
+              72.0,
+              189.0
+            ],
+            [
+              70.0,
+              184.0
+            ],
+            [
+              69.0,
+              187.0
+            ],
+            [
+              65.0,
+              190.0
+            ],
+            [
+              59.0,
+              190.0
+            ],
+            [
+              58.0,
+              184.0
+            ],
+            [
+              54.0,
+              181.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_5",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 25.0,
+        "is_core": false,
+        "patient_id": "49099",
+        "image_id": "1187665922",
+        "architecture": "densenet169",
+        "true_cancer": 0,
+        "pred_prob": 0.0289,
+        "pred_decision": "BENIGN",
+        "age": 45.0,
+        "age_group": "40-50",
+        "site_id": 2,
+        "density": "Unknown"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              118.0,
+              45.0
+            ],
+            [
+              112.0,
+              47.0
+            ],
+            [
+              113.0,
+              51.0
+            ],
+            [
+              116.0,
+              51.0
+            ],
+            [
+              118.0,
+              48.0
+            ],
+            [
+              118.0,
+              45.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

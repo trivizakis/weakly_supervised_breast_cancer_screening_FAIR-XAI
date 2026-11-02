@@ -1,0 +1,310 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "coordinate_system": "pixel_space",
+    "generator": "ViTXAIEnsembler"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Core_Nidus_0",
+      "properties": {
+        "label": "Core_Nidus",
+        "color": "#FF0000",
+        "area_pixels": 464.0,
+        "is_core": true,
+        "patient_id": "64018",
+        "image_id": "1923100903",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9995,
+        "pred_decision": "MALIGNANT",
+        "age": 62.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.0,
+              225.0
+            ],
+            [
+              50.0,
+              227.0
+            ],
+            [
+              49.0,
+              232.0
+            ],
+            [
+              49.0,
+              236.0
+            ],
+            [
+              53.0,
+              242.0
+            ],
+            [
+              61.0,
+              247.0
+            ],
+            [
+              70.0,
+              246.0
+            ],
+            [
+              72.0,
+              244.0
+            ],
+            [
+              72.0,
+              239.0
+            ],
+            [
+              74.0,
+              236.0
+            ],
+            [
+              73.0,
+              230.0
+            ],
+            [
+              75.0,
+              229.0
+            ],
+            [
+              75.0,
+              225.0
+            ],
+            [
+              53.0,
+              225.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_0",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 45.0,
+        "is_core": false,
+        "patient_id": "64018",
+        "image_id": "1923100903",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9995,
+        "pred_decision": "MALIGNANT",
+        "age": 62.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              65.0,
+              269.0
+            ],
+            [
+              59.0,
+              271.0
+            ],
+            [
+              60.0,
+              273.0
+            ],
+            [
+              69.0,
+              277.0
+            ],
+            [
+              71.0,
+              276.0
+            ],
+            [
+              65.0,
+              269.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Peritumoral_Margin_1",
+      "properties": {
+        "label": "Peritumoral_Margin",
+        "color": "#00FFFF",
+        "area_pixels": 1029.5,
+        "is_core": false,
+        "patient_id": "64018",
+        "image_id": "1923100903",
+        "architecture": "densenet169",
+        "true_cancer": 1,
+        "pred_prob": 0.9995,
+        "pred_decision": "MALIGNANT",
+        "age": 62.0,
+        "age_group": "50+",
+        "site_id": 1,
+        "density": "B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              61.0,
+              209.0
+            ],
+            [
+              62.0,
+              215.0
+            ],
+            [
+              67.0,
+              216.0
+            ],
+            [
+              66.0,
+              223.0
+            ],
+            [
+              44.0,
+              224.0
+            ],
+            [
+              43.0,
+              221.0
+            ],
+            [
+              38.0,
+              221.0
+            ],
+            [
+              37.0,
+              226.0
+            ],
+            [
+              45.0,
+              227.0
+            ],
+            [
+              44.0,
+              236.0
+            ],
+            [
+              48.0,
+              237.0
+            ],
+            [
+              51.0,
+              242.0
+            ],
+            [
+              56.0,
+              246.0
+            ],
+            [
+              61.0,
+              248.0
+            ],
+            [
+              74.0,
+              248.0
+            ],
+            [
+              75.0,
+              256.0
+            ],
+            [
+              66.0,
+              257.0
+            ],
+            [
+              72.0,
+              257.0
+            ],
+            [
+              75.0,
+              262.0
+            ],
+            [
+              78.0,
+              262.0
+            ],
+            [
+              80.0,
+              258.0
+            ],
+            [
+              80.0,
+              251.0
+            ],
+            [
+              83.0,
+              249.0
+            ],
+            [
+              83.0,
+              240.0
+            ],
+            [
+              75.0,
+              238.0
+            ],
+            [
+              75.0,
+              231.0
+            ],
+            [
+              82.0,
+              230.0
+            ],
+            [
+              87.0,
+              232.0
+            ],
+            [
+              87.0,
+              227.0
+            ],
+            [
+              78.0,
+              226.0
+            ],
+            [
+              74.0,
+              223.0
+            ],
+            [
+              74.0,
+              212.0
+            ],
+            [
+              72.0,
+              210.0
+            ],
+            [
+              63.0,
+              211.0
+            ],
+            [
+              61.0,
+              209.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
